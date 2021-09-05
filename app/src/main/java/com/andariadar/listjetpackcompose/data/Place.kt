@@ -5,3 +5,4 @@ data class Place (
     val title: String,
     val image: Int
 )
+
