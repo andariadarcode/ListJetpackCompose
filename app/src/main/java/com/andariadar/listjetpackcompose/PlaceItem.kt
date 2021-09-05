@@ -1,4 +1,4 @@
-package com.andariadar
+package com.andariadar.listjetpackcompose
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.layout.*
@@ -15,7 +15,6 @@ import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
-import com.andariadar.listjetpackcompose.R
 import com.andariadar.listjetpackcompose.data.Place
 import com.andariadar.listjetpackcompose.ui.theme.ListJetpackComposeTheme
 
